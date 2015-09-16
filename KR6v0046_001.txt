@@ -1,0 +1,52 @@
+#-*- mode: mandoku-view; -*-
+#+DATE: 2015-08-31 05:58:21.367806
+#+TITLE: 六道輪迴圖偈頌
+#+PROPERTY: CBETA_ID W04n0035
+#+PROPERTY: ID KR6v0046
+#+PROPERTY: SOURCE Buddhist Texts not contained in the Tripitaka Vol. 04, No. 035
+#+PROPERTY: VOL 04
+#+PROPERTY: BASEEDITION W
+#+PROPERTY: WITNESS CBETA
+#+PROPERTY: LASTPB <pb:KR6v0046_W_001-0291a> 
+#+PROPERTY: JUAN 1
+¶
+
+題解¶
+整理者　陳明光¶
+
+〔題解〕¶
+
+《六道輪迴圖偈頌》，中國人所撰佛教偈頌，作者不詳。由南¶
+宋僧人趙智鳳主持建造鐫刻於大足寶頂山大佛灣南崖中部的¶
+《六道輪迴圖》中。¶
+¶
+
+錄文¶
+¶
+
+#+BEGIN_VERSE
+「　汝常求出離，
+　於佛教勤修，¶
+　降伏生死軍，
+　如象摧草舍。
+#+END_VERSE
+」¶
+
+#+BEGIN_VERSE
+「　三界輪中萬種身，
+　自從貪愛業沉淪。¶
+　君看輪外恒沙佛，
+　儘是輪中舊日人。
+#+END_VERSE
+」¶
+
+#+BEGIN_VERSE
+「　於此法律中，
+　常為不放逸，¶
+　能竭煩惱海，
+　當盡苦邊際。
+#+END_VERSE
+」¶
+¶
+
+〔錄文完〕
